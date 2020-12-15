@@ -1,0 +1,14 @@
+{
+    "name": "imekanical/hwork",
+    "description": "hello world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nlpfx",
+            "email": "nlpfx1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
